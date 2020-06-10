@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpeechRecognizerApp</string>
+
+    <string name="record_audio_is_required">record audio is required </string>
+
+    <string name="you_may_speak">you may speak</string>
+
+    <string name="destroied">destroied</string>
+
+    <string name="mute">mute</string>
+
+    <string name="un_mute">un mute</string>
+
+    <string name="no_results_found">no results found</string>
+
+</resources>
